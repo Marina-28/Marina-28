@@ -15,6 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![codewars status](https://www.codewars.com/users/Marina-28/badges/small)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marina-28&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
